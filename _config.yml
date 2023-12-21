@@ -56,6 +56,11 @@ roles:
    employer: DLR/ DFD (German Aerospace Center/ German Remote Sensing data center), Oberpfaffenhofen/Munich (Germany)
    description: DLR / DFD (German Aerospace Center/ German Remote Sensing data center) formed part of a large consortium of institutions building a tsunami early warning system in a SOA (service oriented architecture) the "German-Indonesian Tsunami Early Warning System" (GITEWS) (5 years project, 55Mio € +). </br>The system is in place since April 2010 and being used by the Indonesian national warning center.
    # Developed, implemented and used PL/SQL algorithms for storing, querying and analyzing spatial data in an Oracle 10g Database in order to enable the creation and update of broadscale hazard maps for the Indonesian coast facing the Sunda Arc. Developed a JAVA GIS Viewer Application based on uDiG (Eclipse RCP). I was also responsible to facilitate between geoscientists and IT staff as an internal consultant as well as analyzing, designing and implementing geoprocessing tasks for the computation of broadscale country-wide hazard and risk.
+ - title: Associate Manager
+   start: 2005
+   end: 2007
+   employer: Accenture
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
  - title: Geologist for Brownfield Remediation
    start: 1998
    end: 1999
