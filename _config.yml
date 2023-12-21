@@ -1,7 +1,6 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Bird70
+name: Tilmann Steinmetz
 
 # Build settings
 markdown: kramdown
@@ -10,125 +9,106 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://bird70.github.io/bird70
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/bird70
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
-
+   url: https://www.linkedin.com/in/tilmann-steinmetz-489b062a/
+ 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
+ - ArcGIS
+ - Python
+ - Tableau
  - SQL
  - REST
  - Technical Architecture
  - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Principal Technician - GIS Data Administration
+   start: 2021
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
+   employer: NIWA (National Institute of Water and Atmospheric Research)
+   description: NIWA is running a state-of-the-art GIS platform that can be used for internal and external project needs, such as data collection and management, analysis and sharing with web applications. Over the past 3 years, one of my main tasks has been to design and establish a modern Geospatial Infrastructure which allows all ~700 NIWA staff to self-service their GIS needs. This has involved a number of large changes, including moving from ArcGIS Server to a full ArcGIS Enterprise including a Raster Analytics platform, moving several SDE databases to new servers with minimal disruption and migrating our ~120 ArcGIS Desktop users to newer software, particularly ArcGIS Pro. Without the benefit of having a GIS team, much of the actual technical migration has been provided by third-party technical consultants while I have acted as the 'project owner'. At the same time, we have run some key projects that have championed the use of the new platform, among them users of raster analytics and many members of the field data teams. My current role is to enable more projects to use the new platform by building applications in order to showcase technical and organizational workflows, support users and act as intermediary between NIWA-internal IT, users and third-party contractors. I also work on improving many of the operational aspects of routinely running geospatial workflows for many projects in a shared platform, and monitoring platform use and performance. I develop datasets and applications in consultation with staff and management and train users in understanding the workflows to use these as well as make their own, using best-practice recommendations.
+ - title: GIS Data Analyst and Administrator
+   start: 2017
+   end: 2021
+   employer: NIWA
+   description: I was in charge of spatial data and infrastructure using GIS at NIWA, based in Wellington.
+ - title: Senior GIS Consultant
+   start: 2010
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Eagle Technology Group Ltd (Esri New Zealand Distributor)
+   description: Professional Services Team, Scoped, Analysed, Designed and Implemented ESRI based geospatial solutions for national and local government as well as research and private customers. These solutions often require an integration of ESRI GIS with a variety of enterprise systems like asset managment system or CRM for their spatial enablement. As a Technical Advisor my activities encompassed from pre-sales strategy to maintenance and training.
+ - title: GIS Analyst Consultant
+   start: 2007
+   end: 2010
+   employer: DLR/ DFD (German Aerospace Center/ German Remote Sensing data center), Oberpfaffenhofen/Munich (Germany)
+   description: DLR / DFD (German Aerospace Center/ German Remote Sensing data center) formed part of a large consortium of institutions building a tsunami early warning system in a SOA (service oriented architecture) the "German-Indonesian Tsunami Early Warning System" (GITEWS) (5 years project, 55Mio € +). The system is in place since April 2010 and being used by the Indonesian national warning center. Developed, implemented and used PL/SQL algorithms for storing, querying and analyzing spatial data in an Oracle 10g Database in order to enable the creation and update of broadscale hazard maps for the Indonesian coast facing the Sunda Arc. Developed a JAVA GIS Viewer Application based on uDiG (Eclipse RCP). I was also responsible to facilitate between geoscientists and IT staff as an internal consultant as well as analyzing, designing and implementing geoprocessing tasks for the computation of broadscale country-wide hazard and risk.
+ - title: Geologist for Brownfield Remediation
+   start: 1998
+   end: 1998
+   employer: Lomex/Sakosta Munich
+   description: LOMEX/Sakosta GmbH is a medium size company (~250 people) which is specialized in geological research and remediation at petroleum contamination sites. worked in the exploration and remediation of petroleum contaminated sites; I sampled sites, observed remediation, managed logistics, wrote reports.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Doctor Rer. Nat.  (PhD)
    date: 2003
    subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   school: Martin-Luther University Halle-Wittenberg, Germany
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/2a881d13ed3bab045c54df7d0eb810f4
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Advanced Data Analytics (Google)
+      link: https://www.coursera.org/professional-certificates/google-advanced-data-analytics
+      optionalimage: https://www.coursera.org/account/accomplishments/specialization/certificate/JSAQJJZ9LKTU
+      date: December 9, 2023
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+# speakerdeck:
+#    profileurl: https://speakerdeck.com/robhinds
+#    talks:
+#     - title: Product Management for Engineers
+#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#       conference: API Conference, Berlin 2018
+#     - title: Agile Machine Learning - from Theory to Production
+#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - bird70/MDCS_mosaic_dataset_config_scripts
+ 
 
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+
+# #Stackoverflow flair is optional
+# stackoverflow:
+#    profileurl: https://stackoverflow.com/users/258813/rhinds
+#    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  I'm a researcher and spatial data administrator. I currently work with remotely sensed imagery, flood and flow data, bathymetric as well as biology data. I frequently build web applications to make those data available publicly, and finding the right data model which meets requirements is one of the more challenging parts of my role.
+  I work with Esri ArcGIS Software most of the time to build the applications and the best part about that is that often there is actually almost no code involved in making the front-end application. While I make applications, NIWA as an organisation provides GIS to the entire organisation, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. This can only be accomplished using scripting and automation.
+  I have also facilitated the roll-out of the ArcGIS environment which NIWA uses nowadays: ArcGIS Pro, ArcGIS FieldMaps and Survey123, in combination with a custom raster analytics ArcGIS Enterprise Platform and ArcGIS Online. We use a variety of different data technologies to hold the data, among them Esri SDE databases in Microsoft SQLServer and the Esri Data Store component of ArcGIS Enterprise.
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+
+# #An additional info freetext section is optional at the bottom of the page - can be text or HTML
+# additionalinfo: |
+#    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
+#    <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
+#    <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
+#    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+#    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+#    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+#    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
+#    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
+#    I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
