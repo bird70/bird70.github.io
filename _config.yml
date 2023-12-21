@@ -22,6 +22,8 @@ skills:
  - Tableau
  - SQL
  - REST
+ - JavaScript
+ - React
  - Technical Architecture
  - Machine learning
 
@@ -30,12 +32,12 @@ skills:
 
 #Work experience is required
 roles:
- - title: Principal Technician - GIS Data Administration
+ - title: Principal Technician - GIS Data
    start: 2021
    end: Ongoing
    employer: NIWA (National Institute of Water and Atmospheric Research)
    description: NIWA is running a state-of-the-art GIS platform that can be used for internal and external project needs, such as data collection and management, analysis and sharing with web applications. Over the past 3 years, one of my main tasks has been to design and establish a modern Geospatial Infrastructure which allows all ~700 NIWA staff to self-service their GIS needs. This has involved a number of large changes, including moving from ArcGIS Server to a full ArcGIS Enterprise including a Raster Analytics platform, moving several SDE databases to new servers with minimal disruption and migrating our ~120 ArcGIS Desktop users to newer software, particularly ArcGIS Pro. Without the benefit of having a GIS team, much of the actual technical migration has been provided by third-party technical consultants while I have acted as the 'project owner'. At the same time, we have run some key projects that have championed the use of the new platform, among them users of raster analytics and many members of the field data teams. My current role is to enable more projects to use the new platform by building applications in order to showcase technical and organizational workflows, support users and act as intermediary between NIWA-internal IT, users and third-party contractors. I also work on improving many of the operational aspects of routinely running geospatial workflows for many projects in a shared platform, and monitoring platform use and performance. I develop datasets and applications in consultation with staff and management and train users in understanding the workflows to use these as well as make their own, using best-practice recommendations.
- - title: GIS Data Analyst and Administrator
+ - title: GIS Data Analyst & Administrator
    start: 2017
    end: 2021
    employer: NIWA
@@ -60,7 +62,7 @@ roles:
 education:
  - level: Doctor Rer. Nat.  (PhD)
    date: 2003
-   subject: Artificial Intelligence and Computer Science
+   subject: Environmental Geology
    school: Martin-Luther University Halle-Wittenberg, Germany
 
 #This section is optional (as is the image link below)
@@ -69,7 +71,7 @@ coursera:
    courses:
     - title: Advanced Data Analytics (Google)
       link: https://www.coursera.org/professional-certificates/google-advanced-data-analytics
-      optionalimage: https://www.coursera.org/account/accomplishments/specialization/certificate/JSAQJJZ9LKTU
+      optionalimage: https://www.credly.com/badges/0652e894-8cef-489c-8f37-2aa9cdb4f00e/public_url
       date: December 9, 2023
 
 #This section is optional - embeds slideshows from speakerdeck
