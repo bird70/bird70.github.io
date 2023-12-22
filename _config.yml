@@ -37,11 +37,11 @@ roles:
    end: Ongoing
    employer: NIWA National Institute of Water and Atmospheric Research NZ
    description: Worked on implementing NIWAs state-of-the-art, self-service GIS platform that can be used for internal and external project needs, such as data collection and management, analysis and sharing with web applications. </br>Over the past 3 years, one of my main tasks has been to design and establish a modern Geospatial Infrastructure which allows all ~700 NIWA staff to self-service their GIS needs. </br>This has involved a number of large changes, including moving from ArcGIS Server to a full ArcGIS Enterprise including a Raster Analytics platform, moving several SDE databases to new servers with minimal disruption and migrating our ~120 ArcGIS Desktop users to newer software, particularly ArcGIS Pro. Without the benefit of having a GIS team, much of the actual technical migration has been provided by third-party technical consultants while I have acted as the 'project owner'. At the same time, we have run some key projects that have championed the use of the new platform, among them users of raster analytics and many members of the field data teams. My current role is to enable more projects to use the new platform by building applications in order to showcase technical and organizational workflows, support users and act as intermediary between NIWA-internal IT, users and third-party contractors. I also work on improving many of the operational aspects of routinely running geospatial workflows for many projects in a shared platform, and monitoring platform use and performance. I develop datasets and applications in consultation with staff and management and train users in understanding the workflows to use these as well as make their own, using best-practice recommendations.
- - title: GIS Data Analyst & Admin
+ - title: GIS Data Analyst and Admin
    start: 2017
    end: 2021
    employer: NIWA
-   description: I was in charge of spatial data and infrastructure using GIS at NIWA, based in Wellington.
+   description: I was in charge of spatial data and GIS infrastructure at NIWA, based in Wellington.
  - title: Senior GIS Consultant
    start: 2010
    end: 2017
@@ -50,8 +50,8 @@ roles:
  - title: GIS Analyst Consultant
    start: 2007
    end: 2010
-   employer: DLR-DFD German Aerospace Center- German Remote Sensing data center - Oberpfaffenhofen/Munich 
-   description: DLR-DFD German Aerospace Center- German Remote Sensing data center formed part of a large consortium of institutions building a tsunami early warning system for Indonesia</br>The system is in place since April 2010 and being used by the Indonesian national warning center.
+   employer: DLR DFD German Aerospace Center Oberpfaffenhofen Munich 
+   description: DLR DFD German Aerospace Center, German Remote Sensing data center formed part of a large consortium of institutions building a tsunami early warning system for Indonesia</br>The system is in place since April 2010 and being used by the Indonesian national warning center.
  - title: Geologist
    start: 1998
    end: 1998
@@ -61,9 +61,9 @@ roles:
    
 #Education is required
 education:
- - level: Dr Rer. Nat.  - PhD
+ - level: Dr Rer Nat PhD
    date: 2003
-   subject: Environmental Geology
+   subject: Environmental Geology and Geoinformatics
    school: Martin-Luther University Halle-Wittenberg Germany
 
 #This section is optional (as is the image link below)
@@ -107,5 +107,5 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Web Development</strong>: Through building ArcGIS web applications, I have also worked with various client side technology. Recently I have used React with ArcGIS ExperienceBuilder applications <br/><br/>
-   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2.
-   <strong>Mobile App</strong>: I have made experiments with creating an iPhone app called NZBirder, using Objective-C which was available through the Apple app store for a number of years.
+   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2. <br/><br/>
+   <strong>Mobile App</strong>: I have made an iPhone app called NZBirder, using Objective-C which was available through the Apple app store for a number of years.
