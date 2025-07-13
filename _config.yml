@@ -19,19 +19,29 @@ primarylinks:
 skills:
  - ArcGIS
  - Python
- - Tableau
+ - AWS
  - SQL
+ - MongoDB
+ - PowerBI
  - REST
  - JavaScript
  - React
+ - FME
+ - ETL
  - Technical Architecture
  - Machine learning
+ - Deep Learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+ - title: Principal Technician - GIS Data
+   start: 2025
+   end: Ongoing
+   employer: New Zealand Earth Sciences Institute
+   description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged (various tasks around ETL using AWS, FME, Python)  
  - title: Principal Technician - GIS Data
    start: 2021
    end: Ongoing
