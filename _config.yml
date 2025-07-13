@@ -124,7 +124,7 @@ github:
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I'm a researcher, spatial data administrator, and data scientist. I currently work with remotely sensed imagery, flood and flow data, bathymetric as well as biology data. I frequently build web applications to make those data available publicly, and finding and implementing the right data model which meets requirements is one of the critical and often challenging parts of my role. I therefore spend a lot of time getting the underlying data prepared and ready for use.</br>
+  I am a researcher, spatial data administrator, and data scientist. I currently work with remotely sensed imagery, flood and flow data, bathymetric as well as biology data. I frequently build web applications to make those data available publicly, and finding and implementing the right data model which meets requirements is one of the critical and often challenging parts of my role. I therefore spend a lot of time getting the underlying data prepared and ready for use.</br>
   </br>
   I work with Esri ArcGIS Software most of the time to build the applications. What's cool about using Esri's web app stack is that often there is actually almost no code involved in making the client-side application - although sometimes, coding custom apps, or widgets that can be added to the app, may be required. 
   While I make applications, NIWA as an organisation provides GIS to all staff, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. This can only be accomplished using scripting and automation.</br>
