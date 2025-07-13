@@ -17,18 +17,18 @@ primarylinks:
  
 #Any buzzword skills you want to include
 skills:
+ - Technical Architecture
  - ArcGIS
  - Python
  - AWS
  - SQL
+ - FME
+ - ETL
  - MongoDB
  - PowerBI
  - REST
  - JavaScript
  - React
- - FME
- - ETL
- - Technical Architecture
  - Machine learning
  - Deep Learning
 
