@@ -1,3 +1,5 @@
+(I use this to format and deploy my online CV)
+
 # NerdAbility - A CV Generator (forked from Rob Hinds)
 A Jekyll based CV page generator based on the user profile page on Nerdability.
 
