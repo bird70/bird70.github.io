@@ -63,7 +63,7 @@ roles:
    employer: DLR DFD German Aerospace Center Oberpfaffenhofen Munich 
    description: DLR DFD German Aerospace Center, German Remote Sensing data center formed part of a large consortium of institutions building a tsunami early warning system for Indonesia</br>The system is in place since April 2010 and being used by the Indonesian national warning center.
  - title: Geologist
-   start: 1997
+   start: 1998
    end: 1998
    employer: Sakosta Lomex Munich
    description: Worked in the exploration and remediation of petroleum contaminated sites; I sampled sites, observed remediation, managed logistics, wrote reports.
@@ -138,12 +138,12 @@ intro: |
 additionalinfo: |
    <strong>AWS Solution Architect Associate 3 Certification</strong>: Cloud Architecture underpins most modern data warehousing and AI. I have got certified to solidify best practice cloud architecture and workflows</br></br>
    <strong>Web Development</strong>: Through building ArcGIS web applications, I have also worked with various client side technology. Recently I have used React with ArcGIS ExperienceBuilder applications <br/><br/>
-   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2. <br/><br/>
-   <strong>Mobile App</strong>: I have made an iPhone app called NZBirder, using Objective-C which was available through the Apple app store for a number of years.
+   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2. I love to learn languages!<br/><br/>
+   <strong>Mobile App</strong>: I have made an iPhone app called NZBirder, using Objective-C which was available through the Apple app store for a number of years.  It's sort of retired now.
 
 mobile:
   apps:
     - name: NZBirder
       platform: iOS
-      url: https://platform.foxdata.com/en/app-profile/683741764/CN/as
+      url: https://docs.google.com/document/d/1Zl011iygWqg3w8ecJw78bPZsmENPtG86ZAvMtLHfxzw/pub
       description: NZBirder is a mobile app for iPhone that allows bird watchers to record their sightings and share them with others. It includes features such as a bird identification guide, location tracking, and the ability to upload photos of birds.
