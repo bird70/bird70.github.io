@@ -40,11 +40,11 @@ roles:
  - title: Principal Technician - GIS Data
    start: 2025
    end: Ongoing
-   employer: New Zealand Earth Sciences Institute
+   employer: New Zealand Earth Sciences Institute NZESI (formerly NIWA)
    description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged (various tasks around ETL using AWS, FME, Python)  
  - title: Principal Technician - GIS Data
    start: 2021
-   end: Ongoing
+   end: 2025
    employer: NIWA National Institute of Water and Atmospheric Research NZ
    description: Worked on implementing NIWAs state-of-the-art, self-service GIS platform that can be used for internal and external project needs, such as data collection and management, analysis and sharing with web applications. </br>Over the past 3 years, one of my main tasks has been to design and establish a modern Geospatial Infrastructure which allows all ~700 NIWA staff to self-service their GIS needs. </br>This has involved a number of large changes, including moving from ArcGIS Server to a full ArcGIS Enterprise including a Raster Analytics platform, moving several SDE databases to new servers with minimal disruption and migrating our ~120 ArcGIS Desktop users to newer software, particularly ArcGIS Pro. Without the benefit of having a GIS team, much of the actual technical migration has been provided by third-party technical consultants while I have acted as the 'project owner'. At the same time, we have run some key projects that have championed the use of the new platform, among them users of raster analytics and many members of the field data teams. My current role is to enable more projects to use the new platform by building applications in order to showcase technical and organizational workflows, support users and act as intermediary between NIWA-internal IT, users and third-party contractors. I also work on improving many of the operational aspects of routinely running geospatial workflows for many projects in a shared platform, and monitoring platform use and performance. I develop datasets and applications in consultation with staff and management and train users in understanding the workflows to use these as well as make their own, using best-practice recommendations.
  - title: GIS Data Analyst and Admin
@@ -63,7 +63,7 @@ roles:
    employer: DLR DFD German Aerospace Center Oberpfaffenhofen Munich 
    description: DLR DFD German Aerospace Center, German Remote Sensing data center formed part of a large consortium of institutions building a tsunami early warning system for Indonesia</br>The system is in place since April 2010 and being used by the Indonesian national warning center.
  - title: Geologist
-   start: 1999
+   start: 1997
    end: 1998
    employer: Sakosta Lomex Munich
    description: Worked in the exploration and remediation of petroleum contaminated sites; I sampled sites, observed remediation, managed logistics, wrote reports.
