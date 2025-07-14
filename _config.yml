@@ -143,5 +143,4 @@ apps: |
   name: NZBirder
   platform: iOS
   url: https://platform.foxdata.com/en/app-profile/683741764/CN/as
-  description: |
-    NZBirder is a mobile app for iPhone that allows bird watchers to record their sightings and share them with others. It includes features such as a bird identification guide, location tracking, and the ability to upload photos of birds.
+  description: NZBirder is a mobile app for iPhone that allows bird watchers to record their sightings and share them with others. It includes features such as a bird identification guide, location tracking, and the ability to upload photos of birds.
