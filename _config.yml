@@ -139,8 +139,9 @@ additionalinfo: |
    <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2. <br/><br/>
    <strong>Mobile App</strong>: I have made an iPhone app called NZBirder, using Objective-C which was available through the Apple app store for a number of years.
 
-apps: |
-  name: NZBirder
-  platform: iOS
-  url: https://platform.foxdata.com/en/app-profile/683741764/CN/as
-  description: NZBirder is a mobile app for iPhone that allows bird watchers to record their sightings and share them with others. It includes features such as a bird identification guide, location tracking, and the ability to upload photos of birds.
+mobile:
+  apps: |
+    name: NZBirder
+    platform: iOS
+    url: https://platform.foxdata.com/en/app-profile/683741764/CN/as
+    description: NZBirder is a mobile app for iPhone that allows bird watchers to record their sightings and share them with others. It includes features such as a bird identification guide, location tracking, and the ability to upload photos of birds.
