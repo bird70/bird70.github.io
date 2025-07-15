@@ -113,10 +113,11 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - bird70/MDCS_mosaic_dataset_config_scripts
- - bird70/AWS_ArcGIS_Lambda_Layer
  - bird70/geospatial_ETL_pipeline
+ - bird70/AWS_ArcGIS_Lambda_Layer
+ - bird70/AWS_ArcGIS_Lambda_ImageService
+ - bird70/AWS_NetCDF_2_ArcGIS_Online_Feature
  
-
 
 ##Stackoverflow flair is optional
 # stackoverflow:
@@ -124,7 +125,7 @@ github:
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a researcher, spatial data administrator, and data scientist. I currently work with remotely sensed imagery, flood and flow data, bathymetric as well as biology data. 
+  I am a researcher, data engineer, spatial data administrator, and data scientist. I work with remote sensing data, flood and flow data, bathymetric as well as biology data. 
   </br>
   I frequently build web applications to make those data available publicly. Finding and implementing the right data model, which also meets requirements, is one of the critical and often challenging parts of my role.</br>
   </br>
