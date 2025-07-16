@@ -115,6 +115,7 @@ coursera:
 github:
  - bird70/MDCS_mosaic_dataset_config_scripts
  - bird70/geospatial_ETL_pipeline
+ - bird70/ArcGIS-Metadata-Tools
  - bird70/AWS_ArcGIS_Lambda_Layer
  - bird70/AWS_ArcGIS_Lambda_ImageService
  - bird70/AWS_NetCDF_2_ArcGIS_Online_Feature
