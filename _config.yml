@@ -68,14 +68,15 @@ roles:
    end: 1998
    employer: Sakosta Lomex Munich
    description: Worked in the exploration and remediation of petroleum-contaminated sites; I sampled sites, observed remediation, managed logistics, wrote reports.
+ - title: Dr Rer Nat PhD
+   start: 2007
+   end: 2007
+   employer: Martin-Luther University Halle-Wittenberg Germany
+   description: Environmental Geology and Geoinformatics
 
    
-#Education is required
-education:
- - level: Dr Rer Nat PhD
-   date: 2003
-   subject: Environmental Geology and Geoinformatics
-   school: Martin-Luther University Halle-Wittenberg Germany
+#Education is no longer required - moved to roles section
+#education:
 
 #This section is optional (as is the image link below)
 coursera:
