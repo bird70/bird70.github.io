@@ -42,7 +42,7 @@ roles:
    start: 2025
    end: Ongoing
    employer: New Zealand Earth Sciences Institute NZESI (formerly NIWA)
-   description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged (various tasks around ETL using AWS, FME, Python)  
+   description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged; various tasks around ETL using AWS, FME, Python, ArcGIS and MongoDB. </br>My main focus is on the data platform and data warehouse, which is being built using AWS services such as S3, Aurora, and Lambda, with consumers using Sagemaker. I am also involved in the migration of GIS data and applications to the cloud, including the use of ArcGIS Online and ArcGIS Enterprise. </br>In addition to my technical work, I also provide training and support to staff on the use of the new data platform and GIS tools.  
  - title: Principal Technician - GIS Data
    start: 2021
    end: 2025
