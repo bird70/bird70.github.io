@@ -82,29 +82,28 @@ roles:
 coursera:
    profileurl: https://www.coursera.org/user/2a881d13ed3bab045c54df7d0eb810f4
    courses:
-    - title: Amazon Web Services AWS Cloud Solutions Architect Associate Certificate
-      link: https://www.credly.com/badges/a0cdd8ae-40c7-4c78-a5f4-4dc677bfb167/public_url
-      optionalimage: https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
-      date: April 29, 2025
-    - title: Advanced Data Analytics (Google)
-      link: https://www.credly.com/badges/0652e894-8cef-489c-8f37-2aa9cdb4f00e
-      optionalimage: https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png
-      date: December 9, 2023
-    - title: DevOps, DataOps, MLOps
-      link: https://www.coursera.org/account/accomplishments/verify/LCWBZZED4TD4
+    - title: MLOps | Machine Learning Operations Specialization
+      link: https://coursera.org/share/f8782cebdc58af4d271bf84de54c2f24
       optionalimage:
-      date: June 15,  2024
+      date: July 28,  2025
     - title: Data Science Foundations - Statistical Inference by University of Colorado Boulder on Coursera.
       link: https://coursera.org/share/f4ac3bc6feb8840a4bf82dd22758af17
       optionalimage:
       date: June 27, 2025
-    - title: Machine Learning Operations Specialization
-      link: https://coursera.org/share/f8782cebdc58af4d271bf84de54c2f24
+    - title: Amazon Web Services AWS Cloud Solutions Architect Associate Certificate
+      link: https://www.credly.com/badges/a0cdd8ae-40c7-4c78-a5f4-4dc677bfb167/public_url
+      optionalimage: https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
+      date: April 29, 2025
+    - title: DevOps, DataOps, MLOps
+      link: https://www.coursera.org/account/accomplishments/verify/LCWBZZED4TD4
       optionalimage:
-      date: July 28,  2025
-      
+      date: June 15,  2024
+    - title: Advanced Data Analytics (Google)
+      link: https://www.credly.com/badges/0652e894-8cef-489c-8f37-2aa9cdb4f00e
+      optionalimage: https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png
+      date: December 9, 2023
     
-
+    
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 # speakerdeck:
