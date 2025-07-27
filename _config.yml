@@ -95,9 +95,14 @@ coursera:
       optionalimage:
       date: June 15,  2024
     - title: Data Science Foundations - Statistical Inference by University of Colorado Boulder on Coursera.
-      link: https://www.coursera.org/account/accomplishments/specialization/YUJ28NAX4KTQ
+      link: https://coursera.org/share/f4ac3bc6feb8840a4bf82dd22758af17
       optionalimage:
       date: June 27, 2025
+    - title: Machine Learning Operations Specialization
+      link: https://coursera.org/share/f8782cebdc58af4d271bf84de54c2f24
+      optionalimage:
+      date: July 28,  2025
+      
     
 
 #This section is optional - embeds slideshows from speakerdeck
