@@ -119,7 +119,10 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - bird70/MDCS_mosaic_dataset_config_scripts
+ - bird70/solar-pv-inferencing
+ - bird70/spatial-cluster-analysis
  - bird70/geospatial_ETL_pipeline
+ - bird70/scientific_raster_data_sharing
  - bird70/ArcGIS-Metadata-Tools
  - bird70/AWS_ArcGIS_Lambda_Layer
  - bird70/AWS_ArcGIS_Lambda_ImageService
@@ -132,19 +135,20 @@ github:
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a researcher, spatial data administrator, data engineer and data scientist. I work with remote sensing data, flood and flow data, bathymetric as well as biology data. 
+  I am a researcher, spatial data administrator, data engineer and data scientist. As a professional driven by the intersection of scientifc inquiry and advanced technologies, I work with remote sensing data, flood and flow data, bathymetric as well as biology data, and everything else that get's thrown my way. 
   </br>
-  I frequently build web applications to make those data available publicly. Finding and implementing the right data model, which also meets requirements, is one of the critical and often challenging parts of my role.</br>
+  My core strenth lies in leveraging sophisticated analytical and geospatial tools to transform complex datasets into clear, actionable insights.
+  I specialize in developing and optimising robust GIS solutions and environments, integrating diverse datasets to create comprehensive models and intuitive visualisations. I frequently build web applications to make those data available publicly. Finding and implementing the right data model, which also meets requirements, is one of the critical and often challenging parts of my role.</br>
   </br>
-  I work with Esri ArcGIS Software most of the time to build the applications. What's cool about using Esri's web app stack is that often there is actually almost no code involved in making the client-side application - although sometimes, coding custom apps, or widgets that can be added to the app, may be required. 
-  While I make applications, NIWA as an organisation provides GIS to all staff, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. Scripting and automation are a big part of what I do.</br>
-  </br>
-  I have also facilitated the roll-out of the ArcGIS environment which the organization uses nowadays: ArcGIS Pro, ArcGIS StoryMaps, ArcGIS FieldMaps and Survey123 (for mobile/ field workers), in combination with a custom raster analytics ArcGIS Enterprise Platform and ArcGIS Online. We use a variety of different data technologies to hold the data, among them Esri SDE databases in Microsoft SQLServer and the Esri Data Store component of ArcGIS Enterprise and ArcGIS Online. ArcGIS Monitor is used to track performance and usage.</br>
+  I frequently work with Esri ArcGIS and Free and Open Source Software to build the applications.  
+  While I create applications, NIWA as an organisation provides GIS to all staff, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. Scripting and automation are a big part of what I do.</br>
+  With a commitment to documentation and knowledge sharing, I have also facilitated the roll-out of the ArcGIS environment which the organization uses nowadays: ArcGIS Pro, ArcGIS StoryMaps, ArcGIS FieldMaps and Survey123 (for mobile/ field workers), in combination with a custom raster analytics ArcGIS Enterprise Platform and ArcGIS Online. We use a variety of different data technologies to hold the data, among them Esri SDE databases in Microsoft SQLServer and the Esri Data Store component of ArcGIS Enterprise and ArcGIS Online. ArcGIS Monitor is used to track performance and usage.</br>
+  I ensure that critical scientific findings are not only discovered but also clearly communicated and efficiently disseminated to empower informed decision-making.</br>
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo 1 and 2. I love to learn languages!<br/><br/>
+   <strong>Te Reo Maori</strong>: I have studied Te Reo Maori two semesters in a remote learning course at Te Wananga oo Raukawa, Otaki, called Huia Te Reo (1 and 2). I love to learn languages!<br/><br/>
     <strong>Birdwatching</strong>: I am a keen birdwatcher and have been involved in eBird, which is a citizen science project to map the distribution of birds globally and in New Zealand. I have also developed a mobile app called NZBirder to help bird watchers record their sightings and share them with others.<br/><br/>
 mobile:
   apps:
