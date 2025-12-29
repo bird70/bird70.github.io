@@ -41,7 +41,7 @@ roles:
  - title: Principal Technician - GIS Data
    start: 2025
    end: 2025
-   employer: New Zealand Earth Sciences Institute NZESI (formerly NIWA)
+   employer: Earth Sciences New Zealand ESNZ (formerly NIWA)
    description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged; various tasks around ETL using AWS, FME, Python, ArcGIS and MongoDB. </br>My main focus is on the data platform and data warehouse, which is being built using AWS services such as S3, Aurora, and Lambda, with consumers using Sagemaker. I am also involved in the migration of GIS data and applications to the cloud, including the use of ArcGIS Online and ArcGIS Enterprise. </br>In addition to my technical work, I also provide training and support to staff on the use of the new data platform and GIS tools.  
  - title: Principal Technician - GIS Data
    start: 2021
@@ -86,6 +86,10 @@ coursera:
       link: https://coursera.org/share/f8782cebdc58af4d271bf84de54c2f24
       optionalimage:
       date: July 28,  2025
+    - title: Data Mining Foundations and Practice Specialization by University of Colorado Boulder on Coursera.
+      link: https://coursera.org/share/472e06b86ba2b68273910f72bfb3d8b3
+      optionalimage:
+      date: June 27, 2025
     - title: Data Science Foundations - Statistical Inference by University of Colorado Boulder on Coursera.
       link: https://coursera.org/share/f4ac3bc6feb8840a4bf82dd22758af17
       optionalimage:
@@ -137,11 +141,14 @@ github:
 intro: |
   I am a researcher, spatial data administrator, data engineer and data scientist. As a professional driven by the intersection of scientifc inquiry and advanced technologies, I work with remote sensing data, flood and flow data, bathymetric as well as biology data, and everything else that get's thrown my way. 
   </br>
-  My core strenth lies in leveraging sophisticated analytical and geospatial tools to transform complex datasets into clear, actionable insights.
+  My core strength lies in leveraging sophisticated analytical and geospatial tools to transform complex datasets into clear, actionable insights.
+  </br>
   I specialize in developing and optimising robust GIS solutions and environments, integrating diverse datasets to create comprehensive models and intuitive visualisations. I frequently build web applications to make those data available publicly. Finding and implementing the right data model, which also meets requirements, is one of the critical and often challenging parts of my role.</br>
   </br>
   I frequently work with Esri ArcGIS and Free and Open Source Software to build the applications.  
-  While I create applications, NIWA as an organisation provides GIS to all staff, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. Scripting and automation are a big part of what I do.</br>
+  </br>
+  While I create applications, the NIWA business unit at ESNZ (Earth Sciences New Zealand, formerly NIWA) as an organisation provides GIS to all staff, as a self-service facility, and I'm also acting as the GIS administrator, including understanding and meeting all users' requirements. Scripting and automation are a big part of what I do.
+  </br>
   With a commitment to documentation and knowledge sharing, I have also facilitated the roll-out of the ArcGIS environment which the organization uses nowadays: ArcGIS Pro, ArcGIS StoryMaps, ArcGIS FieldMaps and Survey123 (for mobile/ field workers), in combination with a custom raster analytics ArcGIS Enterprise Platform and ArcGIS Online. We use a variety of different data technologies to hold the data, among them Esri SDE databases in Microsoft SQLServer and the Esri Data Store component of ArcGIS Enterprise and ArcGIS Online. ArcGIS Monitor is used to track performance and usage.</br>
   I ensure that critical scientific findings are not only discovered but also clearly communicated and efficiently disseminated to empower informed decision-making.</br>
 
