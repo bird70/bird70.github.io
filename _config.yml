@@ -82,6 +82,14 @@ roles:
 coursera:
    profileurl: https://www.coursera.org/user/2a881d13ed3bab045c54df7d0eb810f4
    courses:
+    - title: IBM DevOps, Cloud and Agile Foundations Specialization
+      link: https://coursera.org/share/7200814e8da9ab7ed015abfa01c51416
+      optionalimage:
+      date: February 9, 2026
+    - title: IBM Data Science Specialization
+      link: https://coursera.org/share/9550f179f263d530fa753d5e80a4f7d9
+      optionalimage:
+      date: December 13, 2025
     - title: MLOps | Machine Learning Operations Specialization
       link: https://coursera.org/share/f8782cebdc58af4d271bf84de54c2f24
       optionalimage:
