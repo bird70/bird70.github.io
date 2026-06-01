@@ -22,6 +22,8 @@ skills:
  - Python
  - R
  - AWS
+ - DevOps
+ - Docker
  - SQL
  - FME
  - ETL
@@ -82,6 +84,10 @@ roles:
 coursera:
    profileurl: https://www.coursera.org/user/2a881d13ed3bab045c54df7d0eb810f4
    courses:
+    - title: IBM Data Engineering Professional Certificate
+      link: https://coursera.org/share/ec3058fc879e9f72875f001f97a7194e
+      optionalimage:
+      date: June 2, 2026
     - title: IBM DevOps, Cloud and Agile Foundations Specialization
       link: https://coursera.org/share/7200814e8da9ab7ed015abfa01c51416
       optionalimage:
