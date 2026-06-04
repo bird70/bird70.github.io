@@ -44,7 +44,7 @@ roles:
    start: 2025
    end: 2025
    employer: Earth Sciences New Zealand ESNZ (formerly NIWA)
-   description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged; various tasks around ETL using AWS, FME, Python, ArcGIS and MongoDB. </br>My main focus is on the data platform and data warehouse, which is being built using AWS services such as S3, Aurora, and Lambda, with consumers using Sagemaker. I am also involved in the migration of GIS data and applications to the cloud, including the use of ArcGIS Online and ArcGIS Enterprise. </br>In addition to my technical work, I also provide training and support to staff on the use of the new data platform and GIS tools.  
+   description: Worked on data warehouse/ data platform and GIS cloud migration around the time NZ organisations NIWA and GNS merged; various tasks around ETL using AWS, FME, Python, ArcGIS and MongoDB. </br>My main focus is on the data platform and data warehouse, which is being built using AWS services such as S3, Aurora, and Lambda, with consumers using Sagemaker and custom AI clients. I am also involved in the migration of GIS data and applications to the cloud, including the use of ArcGIS Online and ArcGIS Enterprise.
  - title: Principal Technician - GIS Data
    start: 2021
    end: 2025
@@ -84,7 +84,7 @@ roles:
 coursera:
    profileurl: https://www.coursera.org/user/2a881d13ed3bab045c54df7d0eb810f4
    courses:
-    - title: IBM Data Engineering Professional Certificate
+    - title: IBM DevOps and Software Engineering Professional Certificate
       link: https://coursera.org/share/ec3058fc879e9f72875f001f97a7194e
       optionalimage:
       date: June 2, 2026
@@ -153,7 +153,7 @@ github:
 #    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a researcher, spatial data administrator, data engineer and data scientist. As a professional driven by the intersection of scientifc inquiry and advanced technologies, I work with remote sensing data, flood and flow data, bathymetric as well as biology data, and everything else that get's thrown my way. 
+  I am a researcher, spatial data administrator, data engineer and data scientist. A professional driven by scientifc inquiry and advanced technologies, I work with remote sensing data, flood and flow data, bathymetric as well as biology data. 
   </br>
   My core strength lies in leveraging sophisticated analytical and geospatial tools to transform complex datasets into clear, actionable insights.
   </br>
